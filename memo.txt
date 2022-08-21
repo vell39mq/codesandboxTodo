@@ -1,0 +1,5 @@
+https://reffect.co.jp/react/react-firebase-auth
+https://qiita.com/hallotallo/items/2000ed0eb56ec221f24e
+
+タイムスタンプの読み込み方
+https://firebase.google.com/docs/reference/js/firestore_.timestamp
